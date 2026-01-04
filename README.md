@@ -1,4 +1,4 @@
-# Finova Capital Financial Dashboard
+# Financial Dashboard - Ritik Garg.
 
 A modern financial dashboard built with React, Vite, Tailwind CSS, and Express.js.
 
